@@ -56,7 +56,7 @@ The deadline for the homework will always be **Wednesday 23.59 CET**. Regarding 
 | Week | Topic                                                                             | Reading Material                | Homework                        |
 | ---- | --------------------------------------------------------------------------------- | ------------------------------- | ------------------------------- |
 | 0.   | Introduction to Testing                                                           | [Readings W0](/Week0/README.md) | -                               |
-| 1.   | Value of Testing, QA Engineer Mindset, Agile Testing, Desktop vs. Mobile,         | [Readings W1](/Week1/README.md) | [Homework W1](/Week1/MAKEME.md) |
+| 1.   | Value of Testing, QA Engineer Mindset, Agile Testing, Desktop vs. Mobile          | [Readings W1](/Week1/README.md) | [Homework W1](/Week1/MAKEME.md) |
 | 2.   | Test Pyramid & Test Layers, Testing Ideas, Exploratory Testing, Debriefing, ISTQB | [Readings W2](/Week2/README.md) | [Homework W2](/Week2/MAKEME.md) |
 | 3.   | DoR & DoD, BDD/TDD/ATDD, Gherkin, Identifying Bugs, Creating Issues               | [Readings W3](/Week3/README.md) | [Homework W3](/Week3/MAKEME.md) |
 | 4.   | API Testing, UI Testing, SSDLC, SQL/JS Injection                                  | [Readings W4](/Week4/README.md) | [Homework W4](/Week4/MAKEME.md) |
