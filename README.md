@@ -60,10 +60,6 @@ The deadline for the homework will always be **Wednesday 23.59 CET**. Regarding 
 | 2.   | Test Pyramid & Test Layers, Testing Ideas, Exploratory Testing, Debriefing, ISTQB | [Readings W2](/Week2/README.md) | [Homework W2](/Week2/MAKEME.md) |
 | 3.   | DoR & DoD, BDD/TDD/ATDD, Gherkin, Identifying Bugs, Creating Issues               | [Readings W3](/Week3/README.md) | [Homework W3](/Week3/MAKEME.md) |
 | 4.   | API Testing, UI Testing, SSDLC, SQL/JS Injection                                  | [Readings W4](/Week4/README.md) | [Homework W4](/Week4/MAKEME.md) |
-| 5.   | PROJECT: Test Framework, Test Cases                                               | [Readings W5](/Week5/README.md) | [Homework W5](/Week5/MAKEME.md) |
-| 6.   | PROJECT: Build Your Own Test Framework!                                           | [Readings W6](/Week6/README.md) | [Homework W6](/Week6/MAKEME.md) |
-| 7.   | PROJECT: Automation Testing with Framework                                        | [Readings W7](/Week7/README.md) | [Homework W7](/Week7/MAKEME.md) |
-| 8.   | PROJECT: Automate Test Report with CI/CD                                          | [Readings W8](/Week8/README.md) | [Homework W8](/Week8/MAKEME.md) |
 
 ## Finished?
 

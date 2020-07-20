@@ -31,3 +31,5 @@ BONUS
 [LinkedIn Learning] Learning the OWASP Top 10
 
 ### Finished?
+
+Are you finished with going through the materials? High five! If you feel ready to get practical, click [here](./MAKEME.md).
