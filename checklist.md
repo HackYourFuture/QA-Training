@@ -39,7 +39,7 @@ As long as you're not able to do so there's still work to be done!
 
 ## 2. Personal Motivation + Preference
 
-Like knowing the fundamentals, it's important to get your motivation right. Can you easily explain why you would like a QA Engineering job? Saying "I like test9jg" is not good enough, because it doesn't mean anything. Knowing how to test applications is just a means to an end: for you to do what you love and earn a nice living, and for the company to better achieve their goals.
+Like knowing the fundamentals, it's important to get your motivation right. Can you easily explain why you would like a QA Engineering job? Saying "I like testing" is not good enough, because it doesn't mean anything. Knowing how to test applications is just a means to an end: for you to do what you love and earn a nice living, and for the company to better achieve their goals.
 
 Before you apply to jobs you need to start thinking about 3 fundamental questions:
 
