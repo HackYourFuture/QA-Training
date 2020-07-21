@@ -22,7 +22,7 @@ In this module you'll get familiar with the fundamentals of QA. By the end of it
 
 - What is meant by `working in a QA role`
 - The `QA Engineer mindset`
-- The many `types of testing`
+- The common `types of testing`
 - What `test cases` are
 - How to `identify bugs`
 - The importance of `Test-driven development (TDD)` and `Behavior-driven development (BDD)`
