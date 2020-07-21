@@ -18,7 +18,7 @@ Read the following to know more about testing and it's value :
 - [The Most Common Types of Testing](https://testautomationresources.com/software-testing-basics/software-testing-types/)
 
 ### 2. QA Engineer Mindset
-A mindset is a set of assumptions, methods, or notations held by one or more person. In simple words ... it's the way of thinking. As a QA engineer having the right mindset is the key to ensure quality. 
+What makes QAs valuable is their mindset! A mindset is a set of assumptions, methods, or notations held by one or more person. In simple words ... it's the way of thinking. As a QA engineer having the right mindset is the key to ensure quality. 
 
 > A tester's mind should be like that of a child. Someone who is curious, unbiased and not afraid to ask the stupidest of questions . 
 
