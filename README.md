@@ -38,8 +38,8 @@ In this module there'll be **3 checkin moments** during the week:
 
 | Day       | Topic                           | Time          |
 | --------- | ------------------------------- | ------------- |
-| Wednesday | Technical Q&A                   | TBA           |
-| Friday    | Homework Review & Technical Q&A | TBA           |
+| Wednesday | Technical Q&A                   | 18.00 - 19.00 |
+| Friday    | Homework Review & Technical Q&A | 18.00 - 19.00 |
 | Sunday    | Practical exercise              | 12.00 - 13.00 |
 
 ### Homework Deadline
