@@ -63,7 +63,7 @@ The deadline for the homework will always be **Wednesday 23.59 CET**. Regarding 
 
 ## Finished?
 
-Have you been through all the 8 weeks of QA training? You're a boss!
+Have you been through all the 4 weeks of QA training? You're a boss!
 
 Now before you go out and apply for jobs, first go over the following checklist:
 
