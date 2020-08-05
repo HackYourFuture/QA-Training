@@ -1,4 +1,4 @@
-2. Assignment
+ Assignment
 Using Slack application on desktop and mobile:
 
 Describe at least 2 shared testing activities for desktop and mobile versions
