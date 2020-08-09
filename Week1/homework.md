@@ -31,17 +31,16 @@ d-Special charechters in both fields.
 17-Speed test.
 18-Check buttons or Links to different pages.
 19-Crowd Testing.
-
+20-Testing if the connection between web browsers and the server is running smoothly.
 
 Describe unique testing activities per platform
 1-web application  
--Testing if the connection between web browsers and the server is running smoothly.
 -Testing the app on different operating systems such as Windows, Mac, Linux, as well as with different popular browsers such as Chrome, Internet Explorer, Safari, Firefox etc.
 -Desktop app is tested on a central processor.
 -Checking for Syntax Errors.
 
 2-mobile
--Documentation testing. 
+-Documentation testing,example It helps the testing team to estimate testing effort needed, test coverage, resource tracking, execution progress, etc.
 -Mobile applications must support multiple input channels (keyboard, voice, gestures, etc.), multimedia technologies and other features that increase their usability.
 -Mobile devices constantly search the network. That is why we should test the application at different data rates.
 -A wide variety of specific operating systems and component configurations: Android, iOS, BlackBerry
