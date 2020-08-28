@@ -8,6 +8,7 @@ describe('Realworld Login Scenarios with Cypress io', () => {
         cy.get('[placeholder="Email"]').type('hyf_tester@gmail.com')
         cy.get('[placeholder="Password"]').type('HYFtester1')
         cy.get('button[type="submit"]').click()
+        //cy.hash().should('eq','#/')
         cy.wait(4000)
         
     });
@@ -16,7 +17,7 @@ describe('Realworld Login Scenarios with Cypress io', () => {
         cy.get('[placeholder="Email"]').type('hyf_test@gmail.com')
         cy.get('[placeholder="Password"]').type('HYFtester1')
         cy.get('button[type="submit"]').click()
-        //cy.title().should('include', 'email or password is invalid')
+        //cy.get('.error-messages').should('contain', 'email or password is invalid')
         cy.wait(4000)
         
     });
@@ -25,13 +26,14 @@ describe('Realworld Login Scenarios with Cypress io', () => {
         cy.get('[placeholder="Email"]').invoke('val', '')
         cy.get('[placeholder="Password"]').invoke('val', '')
         cy.get('button[type="submit"]').click()
-        //cy.get('.error').should('contain', 'email or password is invalid')
+        //cy.get('.error-messages').should('contain', 'email or password is invalid')
         cy.wait(4000)
         
     });
 
     it('Check Need an account? link', () => {
-        cy.contains('Need an account?').click()
+        cy.contains('Need an account?')
+        .should('have.attr', 'href', '#register').click()
         
     });
 
