@@ -3,20 +3,10 @@
 > Please help us improve and share your feedback! If you find better tutorials
 > or links, please share them by [opening a pull request](https://github.com/HackYourFuture/qa-course/pulls).
 
-# Quality Assurance Training
+# Quality Assurance Learning Goals
 
 ![QA Training](./assets/qa-training.png)
 
-Welcome to the Quality Assurance (QA) Training module! In this repository you'll find everything you need in order to get familiar with the wonderful world of QA.
-
-In order to get the most out of this module you'll need to fulfill a couple of requirements:
-
-- Have some familiarity with software development
-- A desire to leave development behind and become a tester
-
-If you have both, you are in the right place!
-
-## Learning goals
 
 In this module you'll get familiar with the fundamentals of QA. By the end of it you have learned:
 
@@ -61,13 +51,6 @@ The deadline for the homework will always be **Wednesday 23.59 CET**. Regarding 
 | 3.   | DoR & DoD, BDD/TDD/ATDD, Gherkin, Identifying Bugs, Creating Issues               | [Readings W3](/Week3/README.md) | [Homework W3](/Week3/MAKEME.md) |
 | 4.   | API Testing, UI Testing, SSDLC, SQL/JS Injection                                  | [Readings W4](/Week4/README.md) | [Homework W4](/Week4/MAKEME.md) |
 
-## Finished?
-
-Have you been through all the 4 weeks of QA training? You're a boss!
-
-Now before you go out and apply for jobs, first go over the following checklist:
-
-- [Job Preparation Checklist](checklist.md)
 
 _The HackYourFuture curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it :)_
 
