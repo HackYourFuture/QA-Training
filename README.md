@@ -1,6 +1,6 @@
 > If you are following the HackYourFuture curriculum we recommend you to start with module 1: [HTML/CSS/GIT](https://github.com/HackYourFuture/HTML-CSS). To get a complete overview of the HackYourFuture curriculum first, click [here](https://github.com/HackYourFuture/curriculum).
 
-> If you are a HackYourFuture student or graduate looking at pursuing a career as a QA, don’t forget to check the [“Tester or Developer - What Suits You the Most?”]() Repo!
+> If you are a HackYourFuture student or graduate looking at pursuing a career as a QA, don’t forget to check the [“Tester or Developer - What Suits You the Most?”](/testerordev.md) Repo!
 
 > Please help us improve and share your feedback! If you find better tutorials
 > or links, please share them by [opening a pull request](https://github.com/HackYourFuture/qa-course/pulls).
