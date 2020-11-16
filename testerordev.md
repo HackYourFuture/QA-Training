@@ -19,7 +19,7 @@ These defects, or bugs, are usually addressed before the application can be depl
 
 It is very important that software bugs are caught as early as possible. When bugs appear in a real-world environment, they can incur decreases in revenue as well as increased costs to fix the bugs. With a tester as part of the development cycle, an application will be shipped with the fewest possible bugs—since the major ones have been discovered by the tester. In short, the work of the tester is to find bugs before they are caught in the wild. In their own way, the tester helps to reduce the overall cost of the project—and that can really add up!
 
-Check out this cool infographic about the work of a tester vs the work of a developer!
+Check out [this cool infographic](/assets/devvstest.jpg) about the work of a tester vs the work of a developer!
 
 
 ## The typical job description for a QA engineer or tester
@@ -50,8 +50,8 @@ QA engineer responsibilities include designing and implementing tests, debugging
 - Experience working in an Agile/Scrum development process
 
 ### Real job descriptions
-- Mobile QA Engineer at Backbase (Link)
-- Software Test Engineer at Deloitte (Link)
+- [Mobile QA Engineer at Backbase](/assets/backbase.com.jpg) </br>
+- [Software Test Engineer at Deloitte](/assets/deloitte.png)
 
 ## Tester or Developer?
 
