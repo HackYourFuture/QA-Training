@@ -82,7 +82,7 @@ Absolutely! If you are considering a career as a tester get in touch with the HY
 - [Programming Foundations: Software Testing/QA | Video](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa): Check the intro section only!
 - [Insights on Software Quality Engineering | Video](https://www.linkedin.com/learning/insights-on-software-quality-engineering/welcome)
 - [The Path to Becoming a QA Engineer](https://medium.com/@paysa/the-path-to-becoming-a-qa-engineer-14735196a68b)
-- [https://qa-academy.lv/en/qa-engineer-job-4-possible-career-paths/](https://qa-academy.lv/en/qa-engineer-job-4-possible-career-paths/)
 - [The different types of software testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
 - [QA Engineers: practices and tips for businesses](https://www.ssa.group/blog/qa-engineers-practices-and-tips-for-businesses)
+- [QA Engineer Job: 4 Possible Career Paths](https://qa-academy.lv/en/qa-engineer-job-4-possible-career-paths/)
 
