@@ -1,6 +1,6 @@
 # Tester or Developer - What Suits You the Most?
 
-![TestervsDeveloper](assets/devvstest.jpg)
+![TestervsDeveloper](assets/devvstestintro.jpg)
 
 As our world becomes increasingly digital, there has been an increase in the number of applications being developed for various platforms. No matter whether these apps are for a desktop, laptop, car, or mobile device, they all require a team of developers and testers in order to ensure that the app is completed within time, scope, and budget. The quality of the applications also needs to be top-notch to ensure that no bugs escape out into the wild. However, this may not be as easy as it sounds since the process of developing an application for any platform involves a lot of people working together to ensure that the final product is presentable and usable.
 
