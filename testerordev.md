@@ -61,25 +61,25 @@ A tester, on the other hand, is responsible for testing the application and push
 
 ## Frequently Asked Questions:
 
-- If I choose to pursue a career in testing, was HackYourFuture a waste of time?
+***- If I choose to pursue a career in testing, was HackYourFuture a waste of time?***
 Not at all! As a software tester, especially when working in automation, you will need to use most of the skills you learned in our program and more!
 
-- Are there more jobs available in testing than in development?
+***- Are there more jobs available in testing than in development?***
 Fortunately, the are plenty of vacancies in both roles for those who work hard and never stop learning. From time to time, we get approached by a company interested in hiring QA developers and in those cases, a quicker matching might be possible.
 
-- Will I earn more as a developer than a tester?
+***- Will I earn more as a developer than a tester?***
 The information on this topic varies quite a lot. Still, is safe to say that this will mainly depend on your skills, company, etc. The more specialized you become at any of the professions, the more you learn and the more your experience, you will be able to achieve a great salary in both.
 
-- Can testers become developers? 
+***- Can testers become developers?***
 Absolutely! Not only that, many people say they can become better developers than people who don’t have any testing experience. Anyway, we strongly recommend you to choose a path based on what you like and gets you more enthusiastic and not because of the pay or other factors.
 
-- Are there HYF graduates working as testers?
+***- Are there HYF graduates working as testers?***
 Absolutely! If you are considering a career as a tester get in touch with the HYF team so we can schedule a call with you and invite QA developer grads and mentors!
 
 
 ## Interesting videos and articles you should check out!
 
--[Programming Foundations: Software Testing/QA | Video](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa): Check the into section only!
+- [Programming Foundations: Software Testing/QA | Video](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa): Check the into section only!
 - [Insights on Software Quality Engineering | Video](https://www.linkedin.com/learning/insights-on-software-quality-engineering/welcome)
 - [The Path to Becoming a QA Engineer](https://medium.com/@paysa/the-path-to-becoming-a-qa-engineer-14735196a68b)
 - [https://qa-academy.lv/en/qa-engineer-job-4-possible-career-paths/](https://qa-academy.lv/en/qa-engineer-job-4-possible-career-paths/)
