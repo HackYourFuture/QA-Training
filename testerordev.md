@@ -86,3 +86,4 @@ Absolutely! If you are considering a career as a tester get in touch with the HY
 - [QA Engineers: practices and tips for businesses](https://www.ssa.group/blog/qa-engineers-practices-and-tips-for-businesses)
 - [QA Engineer Job: 4 Possible Career Paths](https://qa-academy.lv/en/qa-engineer-job-4-possible-career-paths/)
 
+***Ready to build a career as a QA?*** Then start checking the QA repo [here](/README.md)!
