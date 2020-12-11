@@ -20,7 +20,7 @@ Desktop
 
 Mobile
 
-> 1. On `Global Feed` section, when user clicks on publisher's name and moves to its `Profile` component, he/she can see articles in `My Articles` or `Favorited Articles`. However, if user refreshes the page with a `pull-to-refresh` gesture, even though he/she stays in the same component, the article list becomes empty and it doesn't display any article. (see below image)  
+> 1. On `Global Feed` section, when user clicks on publisher's name and moves to its `Profile` component, he/she can see articles in `My Articles` or `Favorited Articles`. However, if user refreshes the page with a `pull-to-refresh` gesture, even though he/she stays in the same component, the article list becomes empty and it doesn't display any article. (see below images for before and after)  
 >    <img src="https://i.ibb.co/q9dLy2b/articles-profile1.jpg" width="20%"> ... <img src="https://i.ibb.co/ZSDxdPx/articles-profile.jpg" width="20%">
 >
 > 2. There is a redundant right-margin in the articles. It covers almost half of the area and blocks the article content.
