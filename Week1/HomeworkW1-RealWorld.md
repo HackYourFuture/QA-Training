@@ -1,4 +1,4 @@
-**Shared testing activities** for web and mobile of *Real World App*
+- **Shared testing activities** for web and mobile of *Real World App*
 
 | Shared Testing; (Web & Mobile):  \**Testing Functionalities:\**( _of different buttons_:): | Behavior in Web |Behavior in mobile|
 | --- | --- | --- |
@@ -10,7 +10,7 @@
 
 
 
-**Unique testing activities** for web and mobile of *Real World App*
+- **Unique testing activities** for web and mobile of *Real World App*
 
 | Unique Testing (Web)| Unique Testing (Mobile)|
 | --- | --- |
