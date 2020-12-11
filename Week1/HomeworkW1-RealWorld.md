@@ -1,5 +1,5 @@
-| Shared Testing; (Web & Mobile): **Testing Functionalities:**( _of different buttons_:)| Behavior in Web |Behavior in mobile|
-| ------- | --- | --- |
+| :Shared Testing; (Web & Mobile): **Testing Functionalities:**( _of different buttons_:): ||| Behavior in Web |Behavior in mobile|
+| --- | --- | --- |
 |- The testing of `sign up` in both mobile & web: | This act as expected, the sign up created an account using web version. | This did not work in my mobile, the notification of verification of emails and passwords worked, but when it is come to the `Register` button, it does not work.|
 |- The testing of `New post` in both mobile & web: |This act as expected in web version as the empty fields were verified and the posts were created| This worked the same as in web.|
 |- The testing of `delete` & `edit` buttons in both mobile & web:|`delete` button worked as expected in web as the post was deleted.| `edit` button worked as expected when the content of the post was modified, but when empty the content and tried to save the edited posts, there was no notifications of importance of filled the fields of the post. The changes did not saved and the post saved with the previous contents instead.|Unlike in web version, both `delete` and `edit` buttons worked appropriately in my mobile.|
