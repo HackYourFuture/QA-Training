@@ -24,6 +24,5 @@ Mobile
 >    <img src="https://i.ibb.co/q9dLy2b/articles-profile1.jpg" width="20%"> ... <img src="https://i.ibb.co/ZSDxdPx/articles-profile.jpg" width="20%">
 >
 > 2. There is a redundant right-margin in the articles. It covers almost half of the area and blocks the article content.
->    (e.g. the long titles are cut with a three dots, a part of the date is not visible.
 >    (see below image)
 >    <img src="https://i.ibb.co/h28PKVL/article-margin.jpg" width="30%">
