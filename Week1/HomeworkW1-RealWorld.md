@@ -12,5 +12,5 @@
 | Unique Testing (Web)| Unique Testing (Mobile)|
 | --- | --- |
 |- Testing buttons for `pagination` in the web. This feature worked as expected. | - While there was no tabs for pagination in mobile app, the test was perform on creating posts on using both 3G and wifi. The creating post feature worked appropriately in both network, but slower in 3G.|
-|- Testing the searching per `popular tags` worked also as expected | - The same, there was no buttons for `popular tags` in mobile version. So, I tested creating post while I was on 3G, at the moment of saving post, I changed to wifi. The post was not saved and did not even appear in the draft.||
-| - `sharing` button worked appropriately in mobile app.
+|- Testing the searching per `popular tags` worked also as expected | - The same, there was no buttons for `popular tags` in mobile version. So, I tested creating post while I was on 3G, at the moment of saving post, I changed to wifi. The post was not saved and did not even appear in the draft.|
+| |- `sharing` button worked appropriately in mobile app.
