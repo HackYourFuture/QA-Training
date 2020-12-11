@@ -20,7 +20,7 @@
   
   - Testing the Popular Tags
   - Log out button is in the settings
-  - The user can list his articles and favorited articles from the profile
+  - The user can list his articles and favorite articles from the profile
  
   
   
