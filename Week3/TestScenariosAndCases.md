@@ -15,7 +15,7 @@
 
 **- Scenario: User enter correct login credentials**
 
-Given I visit "/login"
+**Given** I visit "/login"
 
 
 When I enter "FatmaSalah@gmail.com" in the "user name" field
@@ -33,7 +33,7 @@ Then I should be logged in Khan Academy.
 **- Scenario  User enter Incorrect login credentials**
 
 
-  Given I visit "/login"
+  **Given** I visit "/login"
 
 
   When I enter "FatmaSalah11@gmail.com" in the "user name" field
@@ -51,25 +51,26 @@ Then I should be logged in Khan Academy.
 **- Scenario User enter Incorrect login credentials**
   
   
-  Given I visit "/login"
+  **Given** I visit "/login"
 
 
-  When I enter "FatmaSalah@gmail.com" in the "user name" field
+When I enter "FatmaSalah@gmail.com" in the "user name" field
 
 
-   And I enter "tester111" in the "password" field
+And I enter "tester111" in the "password" field
 
 
-  And I press the "login" button
+ 
+And I press the "login" button
 
 
-  Then I should not be logged in Khan Academy.
+Then I should not be logged in Khan Academy.
 
 
 **- Scenario User want to reset password to access Khan Academy**
 
 
-  Given I visit "/login"
+  **Given** I visit "/login"
 
 
   When I click "forgot password" link
