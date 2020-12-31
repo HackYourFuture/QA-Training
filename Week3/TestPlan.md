@@ -45,9 +45,9 @@ Functional testing, by performing test cases based on testable requirements
 **3. TEST MANAGEMENT PROCESS:**
 
 **3.1 TEST MANAGEMENT PROCESS:**
- ![Test Management Process](images/TestManagement1.PNG)
+ ![Test Management Process](TestManagement1.PNG)
 **3.2 TEST EXECUTION PROCESS**
-  ![Test Execution Process](images/TestManagement2.PNG)
+  ![Test Execution Process](TestManagement2.PNG)
 
 **4. Plan:**
 
