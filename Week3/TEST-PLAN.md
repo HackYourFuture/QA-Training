@@ -1,28 +1,17 @@
-**_Feature_**: Signing in
+<h3 style='text-align: center'>Test plan for sign in feature of Conduit web app</h3><br>
 
-**Scenario**: Sign in with valid credentials
-_Given_ the user is already at the sign in page
-_When_ the user enters valid email address
-_And_ the user enters the valid password
-_And_ the user clicks on 'Sign in'
-_Then_ the user should be redirected to 'Your Feed' page
+**Introduction**: This test plan is written for the Sign in feature of Conduit web app<br>
 
-**Scenario**: Sign in with empty credentials
-_Given_ the user is already at the sign page
-_When_ the user leaves the credentials fields empty
-_And_ the user clicks on 'Sign in'
-_Then_ the user should see an error message "email or password is invalid"
+**Scope**: The functionality of the 'Sign in' feature <br>
 
-**Scenario**: Sign in with invalid credentials
-_Given_ the user is already at the sign in page
-_When_ the user enters invalid email address
-_And_ the user enters valid password
-_And_ the user clicks on 'Sign in'
-_Then_ the user should see an error message "email or password is invalid"
+**Assumptions**:
 
-**Scenario**: Sign in with incomplete email address
-_Given_ the user is already at the sign in page
-_When_ the user enters an incomplete email address i.e.: missing '@'  
-_And_ the user enters valid password
-_And_ the user clicks on 'Sign in'
-_Then_ the user should see a hint to type a complete address
+- There is at least one valid set of credintials to be used in performing the tests<br>
+- There is no bugs in other parts of the app that would cause the tests to fail.
+
+**Environment**:
+macOS 10.15.7 / Google Chrome Version 87.0.4280.88 (Official Build) (x86_64)
+
+**Tools**: Manual test
+
+**People**: The tests will be written and executed by the Testing Team
